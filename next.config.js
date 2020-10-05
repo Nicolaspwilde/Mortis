@@ -6,5 +6,5 @@ module.exports = {
     }Maintainers of the repository can add the "hacktoberfest" topic to their repository if they wish to participate.
 
     return config
-  }
+  }cvv
 }
